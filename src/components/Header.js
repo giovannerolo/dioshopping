@@ -11,7 +11,7 @@ const Header = () => {
                     Dio Shopping
                 </Typography>
                 <Link to="/">
-                    <Button color="primary">Home</Button>
+                    <Button color="secondary">Home</Button>
                 </Link>
                 <Link to="/contato">
                     <Button color="primary">Contato</Button>
